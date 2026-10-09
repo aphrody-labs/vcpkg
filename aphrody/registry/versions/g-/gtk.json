@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "version": "4.24.1",
+      "port-version": 0,
+      "path": "$/ports/gtk"
+    }
+  ]
+}

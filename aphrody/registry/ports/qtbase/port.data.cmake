@@ -1,0 +1,3 @@
+set(qtbase_HASH "2ebca39bd74a76563c7fb139de3eac69334ba7788c74d113e7b9f8cfaab5aa46700f0f27e80cc70096f98f1217a43b8b95083cba8fc7f185b54551f20bbe6815")
+set(qtbase_URL "https://github.com/aphrody-labs/qtbase/archive/7a59d906fb765eb85759d4d3cae45d3f295f6359.tar.gz")
+set(qtbase_FILENAME "aphrody-labs-qtbase-7a59d906fb765eb85759d4d3cae45d3f295f6359.tar.gz")
